@@ -1,0 +1,44 @@
+{
+  "task_description": "Write a compact, one-day meal plan for an athlete",
+  "cases": [
+    {
+      "prompt_inputs": {
+        "height": "175",
+        "weight": "70",
+        "goal": "muscle gain",
+        "restrictions": "vegetarian"
+      },
+      "criteria": [
+        "High protein vegetarian sources in each meal",
+        "Caloric surplus appropriate for muscle building",
+        "Specific meal timing around training"
+      ]
+    },
+    {
+      "prompt_inputs": {
+        "height": "182",
+        "weight": "85",
+        "goal": "weight loss",
+        "restrictions": "gluten-free, lactose intolerant"
+      },
+      "criteria": [
+        "Caloric deficit while maintaining adequate protein",
+        "No gluten or dairy products included",
+        "Balanced macronutrients across all meals"
+      ]
+    },
+    {
+      "prompt_inputs": {
+        "height": "168",
+        "weight": "62",
+        "goal": "endurance performance",
+        "restrictions": "none"
+      },
+      "criteria": [
+        "High carbohydrate content for sustained energy",
+        "Hydration recommendations included",
+        "Pre and post-workout nutrition specified"
+      ]
+    }
+  ]
+}

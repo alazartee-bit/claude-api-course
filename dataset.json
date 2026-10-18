@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Write a Python function that takes an S3 bucket name and object key, then returns the full S3 URI in the format s3://bucket/key"
+  },
+  {
+    "task": "Create a JSON configuration for an AWS Lambda function with 512MB memory, 30 second timeout, and Python 3.11 runtime"
+  },
+  {
+    "task": "Write a regular expression that validates an AWS IAM role ARN format like arn:aws:iam::123456789012:role/RoleName"
+  }
+]
